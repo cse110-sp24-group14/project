@@ -1,7 +1,3 @@
-function add(a, b) {
-    return a + b;
-}
+const x = "Hi";
 
-const result = add(1, 1);
-
-console.log('Our sum is =', result);
+console.log("Hello, world!");
